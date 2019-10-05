@@ -36,8 +36,5 @@
     <Compile Include="Player.cs" />
     <Compile Include="Card.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <None Include=".gitignore" />
-  </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
